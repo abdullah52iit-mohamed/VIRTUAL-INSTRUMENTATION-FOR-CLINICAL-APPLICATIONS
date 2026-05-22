@@ -37,7 +37,8 @@ To perform basic arithmetic operations (Addition, Subtraction, Multiplication, D
 
 ##  Output
 
-<img width="1803" height="848" alt="Screenshot 2026-05-18 102227" src="https://github.com/user-attachments/assets/1fc133f0-6147-411f-b5c0-de30e441ba04" />
+<img width="1785" height="767" alt="Screenshot 2026-05-22 131716" src="https://github.com/user-attachments/assets/9939408b-9f97-4e38-a7fa-0ad1f5da5df9" />
+
 
 
 ##  Result
